@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba236f7b-8dd5-42bb-a2fa-cf9482e8dc2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0719 dominance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/0719 dominance_modify.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
